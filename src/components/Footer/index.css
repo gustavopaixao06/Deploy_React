@@ -1,0 +1,44 @@
+.footer {
+    padding: 4vw 0vw 0vw 0vw;
+    background-color: #051D3C;
+    color: white;
+    display: flex;
+    flex-direction: row; /* para deixar em linha */
+    justify-content: space-between;
+}
+
+.logo-2{
+    padding-left: 5vw;
+}
+
+.logo-2 img{
+    width: 9vw;
+}
+
+.info, .info-2{
+    padding-left: 5vw;
+    padding-top: 4vw;
+}
+
+.info p {
+    font-size: 1.3vw;
+}
+
+.info-2 p{
+    font-size: 1.2vw;
+}
+
+.part-2 {
+    margin-top: 2.34375vw;
+}
+
+.titulo > p{
+    text-decoration: underline;
+    text-underline-offset: 0.78125vw;
+    margin-bottom: 1.5625vw;
+}
+
+.nav li{
+    list-style-type: none;
+    margin-bottom: 1.5625vw;
+}
