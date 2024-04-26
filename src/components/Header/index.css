@@ -23,11 +23,12 @@ header > .centro{/* Usando o header para que as configurações do display flex 
 .menu-desktop li{/* Configurando a lista */
 
     display: inline-block;/*  deixando o menu em linha*/
-    font-size: 1.328125vw;
+    font-size: 1.6vw;
     margin-right: 4vw;
     color: white;
-    
+
 }
+
 
 
 
